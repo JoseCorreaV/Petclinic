@@ -473,7 +473,7 @@
             </plugin>
                  
                  <plugin>
-                  <gropupId> org.jacoco </groupId>
+                  <groupId> org.jacoco </groupId>
                   <artifactId> jacoco-maven-plugin </artifactId>
                   <version> ${jacoco.version} </version>
                   <executions> 
